@@ -266,6 +266,7 @@ function createRadioOptions(node, div){
         option.setAttribute("option", value);
         option.setAttribute("name", title);
         option.setAttribute("value", value);
+        option.setAttribute("required", "");
         option.addEventListener("change", sum)
 
         // Create a label element dynamically
