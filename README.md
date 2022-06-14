@@ -1,4 +1,4 @@
-<h1 align="center">Juul Labs Assesment</h1>
+<h1 align="center">Xml Parsing Website</h1>
 
 <h3>How to run</h3>
 <ul>
